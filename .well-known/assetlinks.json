@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.myinverter",
+    "sha256_cert_fingerprints": [
+      "08:FE:3F:50:93:03:AA:09:1A:8F:E8:D7:2B:02:DA:49:D7:E6:2D:8B:D7:6F:F9:2F:1A:38:37:89:2D:9C:BD:4C"
+    ]
+  }
+}]
